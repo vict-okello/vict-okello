@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Victor okello
 - 👀 I’m interested in software full stack development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on any project to upskill myself
+- 💞️ Up for collaboration on any project to upskill myself
 - 📫 okellovictor70@gmail.com.
 
 <!---
