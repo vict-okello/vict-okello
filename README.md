@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Victor okello
-- 👀 I’m interested in software full stack development
-- 🌱 I’m currently learning React
-- 💞️ Up for collaboration on any project to upskill myself
-- 📫 okellovictor70@gmail.com.
+-  Developer
+- okellovictor70@gmail.com.
 
 <!---
 vict-okello/vict-okello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
